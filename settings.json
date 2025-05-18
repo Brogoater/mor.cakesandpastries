@@ -1,0 +1,27 @@
+{
+    "files.autoSave": "afterDelay",
+    "breadcrumbs.enabled": false,
+    "editor.fontsize": 14,
+    "editor.wordwarp": "on",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.minimap.enabled": false,
+    "diffEditor.renderSideBySide": false,
+    "workbench.statusBar.visible": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "editor.screenReaderAnnounceInlineSuggestion": true,
+    "search.exclude": { "**/node_modules": true },
+    "[typescript]": {},
+    "C_Cpp.errorSquiggles": "disabled",
+    "editor.wordWrap": "on",
+    "explorer.compactFolders": false,
+    "material-icon-theme.folders.color": "#ef5350",
+    "eslint.autoFixOnSave": true,
+    "editor.tokenColorCustomizations": { "textMateRules": [{ "scope":"keyword", "settings": { "foreground": "#FF0000" } }] },
+    "editor.autoSave": "onWindowChange"
+ }   
+    
+    
+    
+    
